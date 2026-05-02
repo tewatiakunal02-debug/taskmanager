@@ -1,4 +1,85 @@
-# Team Task Manager
+# 🚀 Team Task Manager
+
+A full-stack project management web application where teams can create projects, assign tasks, track progress, and manage work efficiently with role-based access control.
+
+🔗 **Live Demo:** https://your-live-app-link.up.railway.app  
+📂 **GitHub Repository:** https://github.com/tewatiakunla02-debug/taskmanager
+
+---
+
+## 📌 Features
+
+### 🔐 Authentication & Security
+- User Signup / Login
+- JWT Token Authentication
+- Protected Routes
+- Password Hashing with bcryptjs
+- Role-Based Access Control (Admin / Member)
+
+### 👥 Project Management
+- Create Projects
+- Edit / Delete Projects
+- Add Team Members
+- Track Project Progress
+- Set Deadlines
+
+### ✅ Task Management
+- Create Tasks
+- Assign Tasks to Members
+- Update Task Status:
+  - Todo
+  - In Progress
+  - Done
+- Set Priorities:
+  - Low
+  - Medium
+  - High
+- Track Overdue Tasks
+
+### 📊 Dashboard
+- Total Projects
+- Total Tasks
+- Completed Tasks
+- Pending Tasks
+- Overdue Tasks
+- Quick Project Overview
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB Atlas
+- Mongoose
+
+### Authentication
+- JWT
+- bcryptjs
+
+### Deployment
+- Railway
+
+---
+
+## 📁 Project Structure
+
+```bash
+taskmanager/
+│── client/        # React Frontend
+│── server/        # Express Backend
+│── README.md
+│── .gitignore
 
 ## Setup commands
 
