@@ -2,7 +2,7 @@
 
 A full-stack project management web application where teams can create projects, assign tasks, track progress, and manage work efficiently with role-based access control.
 
-🔗 **Live Demo:** https://your-live-app-link.up.railway.app  
+🔗 **Live Demo:** https://energetic-passion-production-175d.up.railway.app/
 📂 **GitHub Repository:** https://github.com/tewatiakunla02-debug/taskmanager
 
 ---
